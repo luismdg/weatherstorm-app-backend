@@ -1,0 +1,16 @@
+{
+    "id": "AL132025",
+    "name": "MELISSA",
+    "year": 2025,
+    "date": "2025-10-23 06:10:45.280039",
+    "zona_horaria": "America/Mexico_City",
+    "season": 2025,
+    "basin": "north_atlantic",
+    "max_wind": null,
+    "min_pressure": null,
+    "ace": 1.7800000000000002,
+    "invest": false,
+    "start_time": null,
+    "end_time": null,
+    "source": "NHC Hurricane Database"
+}

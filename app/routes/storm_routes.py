@@ -6,7 +6,7 @@ from datetime import datetime
 
 router = APIRouter()
 # Obtener el directorio base del proyecto (donde está este archivo)
-BASE_DIR = Path(__file__).parent.parent.parent.parent
+BASE_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = BASE_DIR / "Data" / "Data"
 print(f"DATA_DIR: {DATA_DIR}")
 
